@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mxfile host="app.diagrams.net" type="device" compressed="false" pages="4"><diagram id="figura-1" name="Figura 1. Guía visual de lectura de la tesis" fuente="00_Preliminares_tesis_revisados.docx, versión 1, p. 5; estructura contrastada con los capítulos 3 y 4 revisados." descripcion="Guía visual de lectura de la tesis">
+    <mxGraphModel dx="960" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="960" pageHeight="1115" math="0" shadow="0" background="#FFFFFF">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0" value="Diagrama"/>
+        <mxCell id="block-1" value="" style="group;" vertex="1" parent="1">
+          <mxGeometry x="50.0" y="141.0" width="860" height="142" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-1-shape" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=0;fillColor=#DAE5E1;strokeColor=#294F66;strokeWidth=2;" vertex="1" parent="block-1">
+          <mxGeometry x="0" y="0" width="860" height="142" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-1-number" value="01" style="ellipse;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#294F66;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="block-1" descripcion="Bloque 1 del recorrido de lectura; no número de capítulo.">
+          <mxGeometry x="22" y="45" width="56" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-1-chapter" value="Capítulos 1 y 2" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontColor=#000000;fontStyle=2;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-1">
+          <mxGeometry x="98" y="9" width="740" height="27" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-1-title" value="Problema y objetivos" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;fontStyle=1;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-1">
+          <mxGeometry x="98" y="36" width="740" height="37" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-1-description" value="Tema, relevancia, preguntas y alcance del estudio" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-1">
+          <mxGeometry x="98" y="75" width="740" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-2" value="" style="group;" vertex="1" parent="1">
+          <mxGeometry x="50.0" y="319.0" width="860" height="142" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-2-shape" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=0;fillColor=#DAE5E1;strokeColor=#294F66;strokeWidth=2;" vertex="1" parent="block-2">
+          <mxGeometry x="0" y="0" width="860" height="142" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-2-number" value="02" style="ellipse;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#294F66;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="block-2" descripcion="Bloque 2 del recorrido de lectura; no número de capítulo.">
+          <mxGeometry x="22" y="45" width="56" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-2-chapter" value="Capítulo 3" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontColor=#000000;fontStyle=2;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-2">
+          <mxGeometry x="98" y="9" width="740" height="27" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-2-title" value="Antecedentes y marco de referencia" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;fontStyle=1;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-2">
+          <mxGeometry x="98" y="36" width="740" height="37" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-2-description" value="Evidencia previa y fundamentos&#10;conceptuales, éticos y normativos" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-2">
+          <mxGeometry x="98" y="75" width="740" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="flow-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#294F66;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="block-1-shape" target="block-2-shape">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-3" value="" style="group;" vertex="1" parent="1">
+          <mxGeometry x="50.0" y="497.0" width="860" height="142" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-3-shape" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=0;fillColor=#F4E5CF;strokeColor=#294F66;strokeWidth=2;" vertex="1" parent="block-3">
+          <mxGeometry x="0" y="0" width="860" height="142" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-3-number" value="03" style="ellipse;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#294F66;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="block-3" descripcion="Bloque 3 del recorrido de lectura; no número de capítulo.">
+          <mxGeometry x="22" y="45" width="56" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-3-chapter" value="Capítulo 4" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontColor=#000000;fontStyle=2;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-3">
+          <mxGeometry x="98" y="9" width="740" height="27" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-3-title" value="Diseño metodológico" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;fontStyle=1;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-3">
+          <mxGeometry x="98" y="36" width="740" height="37" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-3-description" value="Participantes, instrumentos y trabajo de campo;&#10;estrategia de análisis e integración" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-3">
+          <mxGeometry x="98" y="75" width="740" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="flow-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#294F66;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="block-2-shape" target="block-3-shape">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-4" value="" style="group;" vertex="1" parent="1">
+          <mxGeometry x="50.0" y="675.0" width="860" height="142" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-4-shape" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=0;fillColor=#EBC6B0;strokeColor=#294F66;strokeWidth=2;" vertex="1" parent="block-4">
+          <mxGeometry x="0" y="0" width="860" height="142" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-4-number" value="04" style="ellipse;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#294F66;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="block-4" descripcion="Bloque 4 del recorrido de lectura; no número de capítulo.">
+          <mxGeometry x="22" y="45" width="56" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-4-chapter" value="" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontColor=#000000;fontStyle=2;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-4">
+          <mxGeometry x="98" y="9" width="740" height="27" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-4-title" value="Resultados, integración y discusión" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;fontStyle=1;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-4">
+          <mxGeometry x="98" y="23" width="740" height="37" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-4-description" value="Cuestionario, TAP y diarios de voz;&#10;integración mediante joint displays" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-4">
+          <mxGeometry x="98" y="64" width="740" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="flow-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#294F66;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="block-3-shape" target="block-4-shape">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-5" value="" style="group;" vertex="1" parent="1">
+          <mxGeometry x="50.0" y="853.0" width="860" height="142" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-5-shape" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=0;fillColor=#DAE5E1;strokeColor=#294F66;strokeWidth=2;" vertex="1" parent="block-5">
+          <mxGeometry x="0" y="0" width="860" height="142" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-5-number" value="05" style="ellipse;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#294F66;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="block-5" descripcion="Bloque 5 del recorrido de lectura; no número de capítulo.">
+          <mxGeometry x="22" y="45" width="56" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-5-chapter" value="" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontColor=#000000;fontStyle=2;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-5">
+          <mxGeometry x="98" y="9" width="740" height="27" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-5-title" value="Conclusiones" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;fontStyle=1;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-5">
+          <mxGeometry x="98" y="23" width="740" height="37" as="geometry"/>
+        </mxCell>
+        <mxCell id="block-5-description" value="Respuestas a los objetivos, limitaciones,&#10;aportes y futuras líneas de investigación" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=0;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="block-5">
+          <mxGeometry x="98" y="64" width="740" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="flow-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#294F66;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="block-4-shape" target="block-5-shape">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      <mxCell id="caption" value="Número, título y nota" parent="0"/><mxCell id="caption_number" value="Figura 1" vertex="1" parent="caption" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=1;align=left;verticalAlign=middle;spacing=0;"><mxGeometry x="30" y="18" width="900" height="30" as="geometry"/></mxCell><mxCell id="caption_title" value="Guía visual de lectura de la tesis" vertex="1" parent="caption" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=2;align=left;verticalAlign=middle;spacing=0;"><mxGeometry x="30" y="53" width="900" height="64" as="geometry"/></mxCell><mxCell id="caption_note" value="Nota. La figura sintetiza la estructura prevista de la tesis. Las flechas indican el orden de lectura. Elaboración propia." vertex="1" parent="caption" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=19;fontColor=#000000;fontStyle=0;align=left;verticalAlign=top;spacing=0;"><mxGeometry x="30" y="1027" width="900" height="60" as="geometry"/></mxCell></root>
+    </mxGraphModel>
+  </diagram>
+<diagram id="figura-2" name="Figura 2. Correspondencia entre preguntas, objetivos y fuentes de evidencia" fuente="01_Introduccion_y_planteamiento_sin_comentarios.docx, versión 3, pp. 5–6." descripcion="Correspondencia entre preguntas, objetivos y fuentes de evidencia">
+    <mxGraphModel dx="960" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="960" pageHeight="1013" math="0" shadow="0" background="#FFFFFF">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0" value="Diagrama"/>
+        <mxCell id="header-left" value="PE y OE (síntesis)" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="12.0" y="143.0" width="220" height="46" as="geometry"/>
+        </mxCell>
+        <mxCell id="header-middle" value="Evidencia del estudio" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="266.0" y="143.0" width="300" height="46" as="geometry"/>
+        </mxCell>
+        <mxCell id="header-right" value="Propósito del análisis" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="610.0" y="143.0" width="338" height="46" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1-left" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#294F66;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="12.0" y="211.0" width="220" height="148" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1-middle" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#DAE5E1;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="266.0" y="211.0" width="300" height="148" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1-right" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#DAE5E1;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="610.0" y="211.0" width="338" height="148" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1-pe" value="PE1 · OE1" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=28;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1" pregunta_completa="¿Qué decisiones, niveles de seguridad autopercibida, criterios declarados y configuraciones analíticas presentan los docentes ante situaciones pedagógicas vinculadas con el uso de IAG?" objetivo_completo="Caracterizar las decisiones, los niveles de seguridad autopercibida, los criterios declarados y las configuraciones analíticas de docentes de Informática de educación media de la DGES ante situaciones pedagógicas vinculadas con el uso de IAG.">
+          <mxGeometry x="20.0" y="229.0" width="204" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1-purpose" value="Caracterizar las&#10;respuestas iniciales" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontStyle=0;fontColor=#FFFFFF;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="20.0" y="273.0" width="204" height="74" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1-input" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#294F66;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r1-left" target="r1-middle">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1-output" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#294F66;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r1-middle" target="r1-right">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2-left" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#294F66;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="12.0" y="381.0" width="220" height="206" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2-middle" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#F4E5CF;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="266.0" y="381.0" width="300" height="206" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2-right" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#F4E5CF;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="610.0" y="381.0" width="338" height="206" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2-pe" value="PE2 · OE2" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=28;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1" pregunta_completa="¿Qué razones, reglas de decisión, umbrales, dilemas y condiciones contextuales intervienen cuando los docentes justifican o reconsideran decisiones pedagógicas sobre el uso educativo de IAG?" objetivo_completo="Analizar las razones, reglas de decisión, umbrales, dilemas y condiciones contextuales que intervienen en la justificación o reconsideración de decisiones pedagógicas sobre el uso educativo de IAG.">
+          <mxGeometry x="20.0" y="399.0" width="204" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2-purpose" value="Analizar las&#10;justificaciones" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontStyle=0;fontColor=#FFFFFF;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="20.0" y="443.0" width="204" height="132" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2-input" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#294F66;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r2-left" target="r2-middle">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2-output" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#294F66;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r2-middle" target="r2-right">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3-left" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#294F66;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="12.0" y="609.0" width="220" height="194" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3-middle" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#EBC6B0;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="266.0" y="609.0" width="300" height="194" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3-right" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#EBC6B0;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="610.0" y="609.0" width="338" height="194" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3-pe" value="PE3 · OE3" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=28;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1" pregunta_completa="¿Qué relaciones y tensiones se identifican al integrar las decisiones iniciales recogidas en el cuestionario con los razonamientos concurrentes de los TAP y las reflexiones situadas de los diarios de voz?" objetivo_completo="Examinar las relaciones y tensiones entre las decisiones iniciales recogidas en el cuestionario, los razonamientos concurrentes de los TAP y las reflexiones situadas de los diarios de voz, con el fin de construir metainferencias sobre la configuración de los criterios éticos.">
+          <mxGeometry x="20.0" y="627.0" width="204" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3-purpose" value="Examinar relaciones&#10;y tensiones" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontStyle=0;fontColor=#FFFFFF;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="20.0" y="671.0" width="204" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3-input" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#294F66;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;dashed=1;dashPattern=5 3;" edge="1" parent="1" source="r3-left" target="r3-middle">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3-output" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#294F66;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;dashed=1;dashPattern=5 3;" edge="1" parent="1" source="r3-middle" target="r3-right">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="cv-title" value="Cuestionario con viñetas" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="276.0" y="226.0" width="280" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="cv-count" value="142 respuestas" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=26;fontStyle=0;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="276.0" y="276.0" width="280" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="cv-short" value="CV" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=23;fontStyle=0;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="276.0" y="319.0" width="280" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1-analysis" value="Decisiones&#10;Seguridad autopercibida&#10;Criterios y configuraciones" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontStyle=0;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="620.0" y="227.0" width="318" height="113" as="geometry"/>
+        </mxCell>
+        <mxCell id="cv-link-1" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="280.0" y="403.0" width="64" height="66" as="geometry"/>
+        </mxCell>
+        <mxCell id="cv-link-1-text" value="CV" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="282.0" y="414.0" width="60" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="qual-1" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="372.0" y="403.0" width="180" height="66" as="geometry"/>
+        </mxCell>
+        <mxCell id="qual-1-technique" value="TAP" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="380.0" y="407.0" width="164" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="qual-1-count" value="5 participantes" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=23;fontStyle=0;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="378.0" y="436.0" width="168" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="link-same-person-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#294F66;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cv-link-1" target="qual-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="cv-link-2" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="280.0" y="500.0" width="64" height="66" as="geometry"/>
+        </mxCell>
+        <mxCell id="cv-link-2-text" value="CV" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="282.0" y="511.0" width="60" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="qual-2" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#294F66;strokeWidth=1.7;" vertex="1" parent="1">
+          <mxGeometry x="372.0" y="500.0" width="180" height="66" as="geometry"/>
+        </mxCell>
+        <mxCell id="qual-2-technique" value="DV" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="380.0" y="504.0" width="164" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="qual-2-count" value="7 participantes" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=23;fontStyle=0;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="378.0" y="533.0" width="168" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="link-same-person-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#294F66;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cv-link-2" target="qual-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2-analysis" value="Razones y reglas de decisión&#10;Umbrales de cambio&#10;Dilemas y condiciones&#10;del contexto" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontStyle=0;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="620.0" y="410.0" width="318" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3-method-title" value="CV + TAP + DV" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=28;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="276.0" y="629.0" width="280" height="42" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3-method" value="Integración prevista&#10;mediante joint displays" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontStyle=0;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="276.0" y="685.0" width="280" height="86" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3-analysis" value="Convergencia y divergencia&#10;Complementariedad&#10;y expansión&#10;Metainferencias" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=24;fontStyle=0;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="620.0" y="632.0" width="318" height="150" as="geometry"/>
+        </mxCell>
+      <mxCell id="caption" value="Número, título y nota" parent="0"/><mxCell id="caption_number" value="Figura 2" vertex="1" parent="caption" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=1;align=left;verticalAlign=middle;spacing=0;"><mxGeometry x="30" y="18" width="900" height="30" as="geometry"/></mxCell><mxCell id="caption_title" value="Correspondencia entre preguntas, objetivos y fuentes de evidencia" vertex="1" parent="caption" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=2;align=left;verticalAlign=middle;spacing=0;"><mxGeometry x="30" y="53" width="900" height="64" as="geometry"/></mxCell><mxCell id="caption_note" value="Nota. PE = pregunta específica; OE = objetivo específico; CV = cuestionario con viñetas; TAP = protocolo de pensamiento en voz alta; DV = diario de voz. Los siete participantes de DV aportaron 19 episodios: seis secuencias completas y una limitada al primer episodio. Cada vínculo CV–TAP o CV–DV corresponde a la misma persona; los dos grupos cualitativos son diferentes. La comparación entre ambos se realizará por dimensión, configuración o categoría. Las flechas discontinuas indican la integración pendiente. Elaboración propia." vertex="1" parent="caption" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=19;fontColor=#000000;fontStyle=0;align=left;verticalAlign=top;spacing=0;"><mxGeometry x="30" y="835" width="900" height="150" as="geometry"/></mxCell></root>
+    </mxGraphModel>
+  </diagram>
+<diagram id="figura-3" name="Figura 3. Relación conceptual entre principios, competencias, criterios y justificación ético-pedagógica" fuente="03_Estado_de_la_cuestion_revision_de_trabajo.docx, versión 2, apartado 3.1.2, pp. 3–4." descripcion="Relación conceptual entre principios, competencias, criterios y justificación ético-pedagógica">
+    <mxGraphModel dx="960" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="960" pageHeight="1080" math="0" shadow="0" background="#FFFFFF">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0" value="Diagrama"/>
+        <mxCell id="context" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F8F8;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=21;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
+          <mxGeometry x="55.0" y="355.0" width="850" height="515" as="geometry"/>
+        </mxCell>
+        <mxCell id="context_label" value="&lt;b&gt;Situación pedagógica&lt;/b&gt;&lt;br&gt;y contexto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F8F8;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=18;fontColor=#294F66;align=center;verticalAlign=middle;spacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70.0" y="377.0" width="165" height="72" as="geometry"/>
+        </mxCell>
+        <mxCell id="principios" value="&lt;b&gt;Principios y marcos&lt;/b&gt;&lt;br&gt;Valores, derechos y orientaciones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE5E1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=22;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60.0" y="180.0" width="380" height="125" as="geometry"/>
+        </mxCell>
+        <mxCell id="competencias" value="&lt;b&gt;Competencias&lt;/b&gt;&lt;br&gt;Conocimientos, habilidades&lt;br&gt;y disposiciones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3ECF1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=22;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520.0" y="180.0" width="380" height="125" as="geometry"/>
+        </mxCell>
+        <mxCell id="criterios" value="&lt;b&gt;Criterios éticos situados&lt;/b&gt;&lt;br&gt;Consideraciones y reglas movilizadas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4E5CF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=22;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="260.0" y="430.0" width="440" height="95" as="geometry"/>
+        </mxCell>
+        <mxCell id="jep" value="&lt;b&gt;Justificación ético-pedagógica&lt;/b&gt;&lt;br&gt;Ponderación de razones, propósitos,&lt;br&gt;responsabilidades y consecuencias" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBC6B0;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=22;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="260.0" y="600.0" width="440" height="115" as="geometry"/>
+        </mxCell>
+        <mxCell id="decision" value="&lt;b&gt;Decisión pedagógica&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="260.0" y="785.0" width="440" height="66" as="geometry"/>
+        </mxCell>
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.25;entryY=0;" edge="1" parent="1" source="principios" target="criterios">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250.0" y="338.0"/>
+              <mxPoint x="370.0" y="338.0"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.75;entryY=0;" edge="1" parent="1" source="competencias" target="criterios">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710.0" y="338.0"/>
+              <mxPoint x="590.0" y="338.0"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="criterios" target="jep">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="jep" target="decision">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="label1" value="Orientan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=18;fontColor=#294F66;align=center;verticalAlign=middle;spacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60.0" y="311.0" width="170" height="32" as="geometry"/>
+        </mxCell>
+        <mxCell id="label2" value="Aportan recursos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=18;fontColor=#294F66;align=center;verticalAlign=middle;spacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="722.0" y="311.0" width="185" height="32" as="geometry"/>
+        </mxCell>
+        <mxCell id="label3" value="Se ponderan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F8F8;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=18;fontColor=#294F66;align=center;verticalAlign=middle;spacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="495.0" y="548.0" width="210" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="label4" value="Fundamenta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F8F8;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=18;fontColor=#294F66;align=center;verticalAlign=middle;spacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="495.0" y="736.0" width="210" height="30" as="geometry"/>
+        </mxCell>
+      <mxCell id="caption" value="Número, título y nota" parent="0"/><mxCell id="caption_number" value="Figura 3" vertex="1" parent="caption" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=1;align=left;verticalAlign=middle;spacing=0;"><mxGeometry x="30" y="18" width="900" height="30" as="geometry"/></mxCell><mxCell id="caption_title" value="Relación conceptual entre principios, competencias, criterios y justificación ético-pedagógica" vertex="1" parent="caption" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=2;align=left;verticalAlign=middle;spacing=0;"><mxGeometry x="30" y="53" width="900" height="64" as="geometry"/></mxCell><mxCell id="caption_note" value="Nota. JEP significa justificación ético-pedagógica. Las flechas indican relaciones de orientación, recursos para la deliberación y fundamentación; no representan etapas obligatorias, efectos causales ni una jerarquía normativa. El contexto atraviesa la movilización de los criterios y la justificación de la decisión. Elaboración propia a partir de las distinciones analíticas formuladas en este apartado." vertex="1" parent="caption" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=19;fontColor=#000000;fontStyle=0;align=left;verticalAlign=top;spacing=0;"><mxGeometry x="30" y="902" width="900" height="150" as="geometry"/></mxCell></root>
+    </mxGraphModel>
+  </diagram>
+<diagram id="figura-4" name="Figura 4. Relación entre los antecedentes y la delimitación del aporte de la tesis" fuente="03_Estado_de_la_cuestion_revision_de_trabajo.docx, versión 2, apartado 3.3, pp. 12–13. Función transversal contrastada con el apartado 3.1.2, pp. 3–4, y con el libro de códigos (entrada JEP)." descripcion="Relación entre los antecedentes y la delimitación del aporte de la tesis" revision="JEP explícita como eje transversal; título y cuatro dimensiones conservados.">
+    <mxGraphModel dx="960" dy="1345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="960" pageHeight="1345" math="0" shadow="0" background="#FFFFFF">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0" value="Diagrama"/>
+        <mxCell id="jep_encuadre" value="" vertex="1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#94A3AB;strokeWidth=1.1;pointerEvents=0;connectable=0;shadow=0;"><mxGeometry x="44" y="806" width="872" height="288" as="geometry"/></mxCell><mxCell id="marcos" value="&lt;b&gt;Marcos conceptuales y normativos&lt;/b&gt;&lt;br&gt;Principios, competencias&lt;br&gt;y orientaciones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE5E1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=22;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60.0" y="175.0" width="400" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="antecedentes" value="&lt;b&gt;Revisiones y estudios empíricos&lt;/b&gt;&lt;br&gt;Usos, percepciones, tensiones&lt;br&gt;y condiciones de apropiación" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3ECF1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=22;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="500.0" y="175.0" width="400" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="pregunta" value="&lt;b&gt;Pregunta que articula el recorte&lt;/b&gt;&lt;br&gt;¿Cómo se configuran y justifican los criterios&lt;br&gt;ante decisiones pedagógicas sobre IAG?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4E5CF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="120.0" y="385.0" width="720" height="115" as="geometry"/>
+        </mxCell>
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.25;entryY=0;" edge="1" parent="1" source="marcos" target="pregunta">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260.0" y="349.0"/>
+              <mxPoint x="300.0" y="349.0"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.75;entryY=0;" edge="1" parent="1" source="antecedentes" target="pregunta">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700.0" y="349.0"/>
+              <mxPoint x="660.0" y="349.0"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="colectivo" value="&lt;b&gt;Colectivo&lt;/b&gt;&lt;br&gt;Docentes de Informática&lt;br&gt;Educación media · DGES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3ECF1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=20;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60.0" y="585.0" width="260" height="145" as="geometry"/>
+        </mxCell>
+        <mxCell id="objeto" value="&lt;b&gt;Objeto&lt;/b&gt;&lt;br&gt;Configuración y justificación&lt;br&gt;de criterios éticos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4E5CF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=20;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="350.0" y="585.0" width="260" height="145" as="geometry"/>
+        </mxCell>
+        <mxCell id="lectura" value="&lt;b&gt;Lectura analítica&lt;/b&gt;&lt;br&gt;Razones, contexto y&lt;br&gt;justificación ético-&lt;br&gt;pedagógica" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBC6B0;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=20;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="640.0" y="585.0" width="260" height="145" as="geometry"/>
+        </mxCell>
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.25;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="pregunta" target="colectivo">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300.0" y="546.0"/>
+              <mxPoint x="190.0" y="546.0"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="pregunta" target="objeto">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.75;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="pregunta" target="lectura">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660.0" y="546.0"/>
+              <mxPoint x="770.0" y="546.0"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dim_label" value="&lt;b&gt;Dimensiones teóricas iniciales&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=21;fontColor=#294F66;align=center;verticalAlign=middle;spacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60.0" y="770.0" width="840" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="equidad" value="Equidad de acceso" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE5E1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=21;fontColor=#294F66;align=center;verticalAlign=middle;spacing=6;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60.0" y="822.0" width="410" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="privacidad" value="Privacidad y protección de datos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3ECF1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=21;fontColor=#294F66;align=center;verticalAlign=middle;spacing=6;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="490.0" y="822.0" width="410" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="transparencia" value="Transparencia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4E5CF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=21;fontColor=#294F66;align=center;verticalAlign=middle;spacing=6;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60.0" y="883.0" width="410" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="autoria" value="Atribución de autoría" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBC6B0;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=21;fontColor=#294F66;align=center;verticalAlign=middle;spacing=6;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="490.0" y="883.0" width="410" height="48" as="geometry"/>
+        </mxCell>
+      <mxCell id="jep_transversal" value="&lt;b&gt;Eje transversal: Justificación ético-pedagógica (JEP)&lt;/b&gt;&lt;br&gt;Articulación de valores, propósitos educativos, consecuencias previstas,&lt;br&gt;responsabilidades y condiciones del contexto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEF2F4;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=21;fontColor=#294F66;align=center;verticalAlign=middle;spacing=12;shadow=0;" vertex="1" parent="1"><mxGeometry x="60" y="967" width="840" height="109" as="geometry"/></mxCell><mxCell id="caption" value="Número, título y nota" parent="0"/><mxCell id="caption_number" value="Figura 4" vertex="1" parent="caption" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=1;align=left;verticalAlign=middle;spacing=0;"><mxGeometry x="30" y="18" width="900" height="30" as="geometry"/></mxCell><mxCell id="caption_title" value="Relación entre los antecedentes y la delimitación del aporte de la tesis" vertex="1" parent="caption" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;fontStyle=2;align=left;verticalAlign=middle;spacing=0;"><mxGeometry x="30" y="53" width="900" height="64" as="geometry"/></mxCell><mxCell id="caption_note" value="Nota. IAG significa inteligencia artificial generativa; DGES, Dirección General de Educación Secundaria; y JEP, justificación ético-pedagógica. JEP se representa como un eje transversal a las cuatro dimensiones, no como una quinta dimensión temática. El encuadre reúne las dimensiones y su eje transversal. Las conexiones representan la articulación analítica entre marcos, antecedentes y recorte del estudio; no expresan efectos causales ni resultados obtenidos. Elaboración propia a partir de la síntesis de los apartados 3.1 a 3.3. La delimitación se refiere a las fuentes revisadas y no implica una ausencia absoluta de investigaciones sobre el tema." vertex="1" parent="caption" style="text;html=0;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=19;fontColor=#000000;fontStyle=0;align=left;verticalAlign=top;spacing=0;"><mxGeometry x="30" y="1120" width="900" height="193" as="geometry"/></mxCell></root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

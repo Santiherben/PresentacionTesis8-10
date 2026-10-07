@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mxfile host="app.diagrams.net" type="device" compressed="false"><diagram id="Figura 5 · Diseño mixto y corpus" name="Figura 5 · Diseño mixto y corpus">
+    <mxGraphModel dx="920" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="920" pageHeight="1080" math="0" shadow="0" background="#FFFFFF">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="cv" value="&lt;b&gt;Cuestionario con viñetas · cuan&lt;/b&gt;&lt;br&gt;142 respuestas recibidas&lt;br&gt;Decisión · criterio · seguridad · perfil profesional" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4E5CF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=24;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="780" height="108" as="geometry"/>
+        </mxCell>
+        <mxCell id="conexion" value="&lt;b&gt;Conexión utilizada para seleccionar casos&lt;/b&gt;&lt;br&gt;Perfiles del CV y funciones analíticas&lt;br&gt;Dos submuestras de personas diferentes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3ECF1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=24;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="185" width="780" height="102" as="geometry"/>
+        </mxCell>
+        <mxCell id="c1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="cv" target="conexion">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="tap" value="&lt;b&gt;TAP · CUAL&lt;/b&gt;&lt;br&gt;5 participantes (6 previstos)&lt;br&gt;Una viñeta y una variación" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE5E1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=24;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="385" height="125" as="geometry"/>
+        </mxCell>
+        <mxCell id="dv" value="&lt;b&gt;Diarios de voz · CUAL&lt;/b&gt;&lt;br&gt;7 participantes · 19 episodios&lt;br&gt;6 secuencias completas + 1 parcial" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE5E1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="350" width="385" height="125" as="geometry"/>
+        </mxCell>
+        <mxCell id="c2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.25;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="conexion" target="tap">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="320"/>
+              <mxPoint x="232.5" y="320"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.75;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="conexion" target="dv">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="320"/>
+              <mxPoint x="687.5" y="320"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lectura" value="&lt;b&gt;Lectura preliminar TAP&lt;/b&gt;&lt;br&gt;Focos para el banco de microsondeos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBC6B0;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=22;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="385" height="99" as="geometry"/>
+        </mxCell>
+        <mxCell id="secuencia" value="&lt;b&gt;Secuencia DV&lt;/b&gt;&lt;br&gt;E2 tras E1 · E3 tras E2&lt;br&gt;Correo electrónico o WhatsApp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3ECF1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=22;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="520" width="385" height="99" as="geometry"/>
+        </mxCell>
+        <mxCell id="c4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="tap" target="lectura">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="dv" target="secuencia">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="lectura" target="secuencia">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="cual" value="&lt;b&gt;Análisis cualitativo en curso&lt;/b&gt;&lt;br&gt;Reconstrucción de casos y revisión del libro de códigos&lt;br&gt;Síntesis TAP y síntesis DV con sus propios contextos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="681" width="780" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="c7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.25;entryY=0;" edge="1" parent="1" source="lectura" target="cual">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="232.5" y="653"/>
+              <mxPoint x="265" y="653"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.75;entryY=0;" edge="1" parent="1" source="secuencia" target="cual">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="687.5" y="653"/>
+              <mxPoint x="655" y="653"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="integracion" value="&lt;b&gt;Integración final prevista&lt;/b&gt;&lt;br&gt;CV → TAP y CV → DV por participante&lt;br&gt;Comparación transversal · joint displays · metainferencias" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4E5CF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=24;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
+          <mxGeometry x="70" y="830" width="780" height="112" as="geometry"/>
+        </mxCell>
+        <mxCell id="c9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="cual" target="integracion">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="leyenda" value="Las ramas distinguen participantes; no indican simultaneidad.&lt;br&gt;El trazo horizontal indica desarrollo del instrumento DV." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=20;fontColor=#294F66;align=center;verticalAlign=middle;spacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="978" width="840" height="64" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+<diagram id="Figura 6 · TAP y condiciones del registro" name="Figura 6 · TAP y condiciones del registro">
+    <mxGraphModel dx="920" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="920" pageHeight="1040" math="0" shadow="0" background="#FFFFFF">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="preparar" value="&lt;b&gt;Preparación del caso&lt;/b&gt;&lt;br&gt;Perfil CV → viñeta y una variación asignadas&lt;br&gt;Práctica de verbalización y respuesta previa del CV oculta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4E5CF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=24;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="820" height="106" as="geometry"/>
+        </mxCell>
+        <mxCell id="ini" value="&lt;b&gt;RAZ-INI&lt;/b&gt;&lt;br&gt;Viñeta base abierta&lt;br&gt;Decisión y verbalización inicial" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE5E1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=24;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="205" width="350" height="109" as="geometry"/>
+        </mxCell>
+        <mxCell id="var" value="&lt;b&gt;RAZ-VAR&lt;/b&gt;&lt;br&gt;Un solo dato nuevo&lt;br&gt;Continuidad · matiz · cambio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE5E1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=24;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="205" width="350" height="109" as="geometry"/>
+        </mxCell>
+        <mxCell id="t1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="preparar" target="ini">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="170"/>
+              <mxPoint x="245" y="170"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="ini" target="var">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="control" value="&lt;b&gt;Regla prevista durante la tarea&lt;/b&gt;&lt;br&gt;Recordatorio neutral tras 8–10 s de silencio&lt;br&gt;Intervalo operativo del estudio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=22;fontColor=#294F66;align=center;verticalAlign=middle;spacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="355" width="780" height="91" as="geometry"/>
+        </mxCell>
+        <mxCell id="ret" value="&lt;b&gt;RET · retrospectiva inmediata&lt;/b&gt;&lt;br&gt;Aspecto priorizado · reconsideración · seguridad&lt;br&gt;La seguridad inicial y posterior se pregunta después de la tarea.&lt;br&gt;Pregunta específica y transversal opcional según el guion." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBC6B0;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="505" width="820" height="132" as="geometry"/>
+        </mxCell>
+        <mxCell id="t3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=0.5;entryY=0;" edge="1" parent="1" source="var" target="ret">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="888" y="259.5"/>
+              <mxPoint x="888" y="479"/>
+              <mxPoint x="460" y="479"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cierre" value="&lt;b&gt;Cierre comparativo&lt;/b&gt;&lt;br&gt;Se comunica decisión, criterio y seguridad del CV&lt;br&gt;Se analiza como respuesta a esa devolución." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4E5CF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="686" width="820" height="96" as="geometry"/>
+        </mxCell>
+        <mxCell id="t4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="ret" target="cierre">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="evidencia" value="&lt;b&gt;Registro para el análisis&lt;/b&gt;&lt;br&gt;Conservar preguntas, omisiones e intervenciones efectivas.&lt;br&gt;Distinguir verbalización, explicación solicitada y retrospectiva.&lt;br&gt;Revisar por separado cualquier discrepancia con el CV." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3ECF1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="832" width="820" height="132" as="geometry"/>
+        </mxCell>
+        <mxCell id="t5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="cierre" target="evidencia">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pie" value="El esquema describe el guion; la transcripción acredita su aplicación." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=20;fontColor=#294F66;align=center;verticalAlign=middle;spacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="990" width="820" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+<diagram id="Figura 7 · Diarios de voz y recepción" name="Figura 7 · Diarios de voz y recepción">
+    <mxGraphModel dx="920" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="920" pageHeight="1040" math="0" shadow="0" background="#FFFFFF">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="contacto" value="&lt;b&gt;Convocatoria y encuadre&lt;/b&gt;&lt;br&gt;Candidatos principales y respaldos contemplados&lt;br&gt;Aceptación individual · correo electrónico o WhatsApp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4E5CF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=24;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="30" width="830" height="108" as="geometry"/>
+        </mxCell>
+        <mxCell id="e1" value="&lt;b&gt;E1 · episodio situado&lt;/b&gt;&lt;br&gt;Situación, decisión y condición contextual" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE5E1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=24;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="199" width="520" height="101" as="geometry"/>
+        </mxCell>
+        <mxCell id="e2" value="&lt;b&gt;E2 · tensión y umbral&lt;/b&gt;&lt;br&gt;Consigna común y un microsondeo registrado&lt;br&gt;Envío después de recibir E1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE5E1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=24;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="370" width="520" height="122" as="geometry"/>
+        </mxCell>
+        <mxCell id="e3" value="&lt;b&gt;E3 · contraste con el CV&lt;/b&gt;&lt;br&gt;Decisión, criterio y seguridad de la misma persona&lt;br&gt;Envío después de recibir E2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE5E1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="560" width="520" height="123" as="geometry"/>
+        </mxCell>
+        <mxCell id="d1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="contacto" target="e1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="169"/>
+              <mxPoint x="305" y="169"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="e1" target="e2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="d3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="e2" target="e3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="reglas" value="&lt;b&gt;Condiciones&lt;/b&gt;&lt;br&gt;2–4 min por audio&lt;br&gt;7–10 días orientativos&lt;br&gt;Flexibilidad de plazo&lt;br&gt;Máximo previsto:&lt;br&gt;2 recordatorios&lt;br&gt;en toda la secuencia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3ECF1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=22;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="202" width="245" height="260" as="geometry"/>
+        </mxCell>
+        <mxCell id="parcial" value="&lt;b&gt;Secuencia parcial&lt;/b&gt;&lt;br&gt;E1 recibido&lt;br&gt;E2 sin respuesta&lt;br&gt;E3 sin envío" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=22;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
+          <mxGeometry x="630" y="532" width="245" height="154" as="geometry"/>
+        </mxCell>
+        <mxCell id="corpus" value="&lt;b&gt;Corpus documentado al cierre&lt;/b&gt;&lt;br&gt;6 secuencias completas + 1 E1 adicional&lt;br&gt;7 participantes · 19 episodios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4E5CF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=25;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="762" width="830" height="111" as="geometry"/>
+        </mxCell>
+        <mxCell id="d4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="e3" target="corpus">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="728"/>
+              <mxPoint x="460" y="728"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nota" value="DV06-E2 tiene dos archivos y cuenta como una sola entrada.&lt;br&gt;La ausencia de un audio no equivale a ausencia de un criterio." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=21;fontColor=#294F66;align=center;verticalAlign=middle;spacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="913" width="830" height="85" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+<diagram id="Figura 8 · Rutas de integración prevista" name="Figura 8 · Rutas de integración prevista">
+    <mxGraphModel dx="920" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="920" pageHeight="1040" math="0" shadow="0" background="#FFFFFF">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="marco" value="&lt;b&gt;Resultados cuantitativos y perfiles individuales&lt;/b&gt;&lt;br&gt;Decisiones · criterios · seguridad · configuraciones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4E5CF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=24;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="28" width="830" height="83" as="geometry"/>
+        </mxCell>
+        <mxCell id="tap" value="&lt;b&gt;Ruta individual CV → TAP&lt;/b&gt;&lt;br&gt;CV de la misma persona&lt;br&gt;RAZ-INI · RAZ-VAR · RET · cierre" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE5E1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="177" width="390" height="124" as="geometry"/>
+        </mxCell>
+        <mxCell id="dv" value="&lt;b&gt;Ruta individual CV → DV&lt;/b&gt;&lt;br&gt;CV de la misma persona&lt;br&gt;Episodios E1–E3 disponibles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE5E1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="177" width="390" height="124" as="geometry"/>
+        </mxCell>
+        <mxCell id="i1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.25;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="marco" target="tap">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252.5" y="141"/>
+              <mxPoint x="240" y="141"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.75;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="marco" target="dv">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="667.5" y="141"/>
+              <mxPoint x="680" y="141"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stap" value="&lt;b&gt;Síntesis TAP&lt;/b&gt;&lt;br&gt;Comparación entre cinco casos&lt;br&gt;Intervenciones y estímulos efectivos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3ECF1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="360" width="390" height="105" as="geometry"/>
+        </mxCell>
+        <mxCell id="sdv" value="&lt;b&gt;Síntesis DV&lt;/b&gt;&lt;br&gt;Secuencias completas y aporte parcial&lt;br&gt;Condiciones y estímulos por episodio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3ECF1;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="360" width="390" height="105" as="geometry"/>
+        </mxCell>
+        <mxCell id="i3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="tap" target="stap">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="i4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="dv" target="sdv">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="joint" value="&lt;b&gt;Matriz conjunta por unidad analítica común&lt;/b&gt;&lt;br&gt;Resultado CV + síntesis TAP + síntesis DV&lt;br&gt;Convergencia · complementariedad · divergencia · expansión&lt;br&gt;Registrar también vacíos y materiales no comparables" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBC6B0;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=23;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="537" width="740" height="133" as="geometry"/>
+        </mxCell>
+        <mxCell id="i5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.25;entryY=0;" edge="1" parent="1" source="stap" target="joint">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="505"/>
+              <mxPoint x="275" y="505"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.75;entryY=0;" edge="1" parent="1" source="sdv" target="joint">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="505"/>
+              <mxPoint x="645" y="505"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meta" value="&lt;b&gt;Metainferencia&lt;/b&gt;&lt;br&gt;¿Qué comprensión añade la relación entre fuentes?&lt;br&gt;Interpretación + evidencias + alcance + límites" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4E5CF;strokeColor=#6B7D88;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=25;fontColor=#294F66;align=center;verticalAlign=middle;spacing=8;shadow=0;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
+          <mxGeometry x="90" y="733" width="740" height="115" as="geometry"/>
+        </mxCell>
+        <mxCell id="i7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#6B7D88;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="joint" target="meta">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="control" value="&lt;b&gt;Control transversal&lt;/b&gt;&lt;br&gt;Cada afirmación conserva caso, momento, localizador y versión.&lt;br&gt;TAP y DV aportan personas diferentes; no forman una trayectoria individual." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=21;fontColor=#294F66;align=center;verticalAlign=middle;spacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="902" width="830" height="91" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
